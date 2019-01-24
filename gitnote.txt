@@ -1,0 +1,10 @@
+﻿Git学习笔记
+1.Download(可以从镜像地址下载会比较快https://github.com/waylau/git-for-win)
+2.下载完成后，设置username以及email
+    git config --global user.name "Your name"
+	git config --global user.email "email@example.com"
+3.指定git仓库位置，在指定目录下运行命令
+    git init
+4.添加文件到仓库以及提交文件
+    git add readme.txt
+	git commit -m "wrote a readme file"
