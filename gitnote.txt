@@ -24,3 +24,7 @@
 9.查看命令记录
     git reflog
 10.Git的stage概念
+11.查看工作区和版本库里的区别
+    git diff HEAD -- readme.txt
+12.Git文件回到最近的提交版本
+    git checkout -- readme.txt
