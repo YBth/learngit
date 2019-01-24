@@ -8,3 +8,9 @@
 4.添加文件到仓库以及提交文件
     git add readme.txt
 	git commit -m "wrote a readme file"
+5.修改文件后，查看状态, 查看文件修改内容， 文件添加， 文件提交
+    git status
+	git diff readme.txt
+	git add readme.txt
+	git commit -m "message"
+	
